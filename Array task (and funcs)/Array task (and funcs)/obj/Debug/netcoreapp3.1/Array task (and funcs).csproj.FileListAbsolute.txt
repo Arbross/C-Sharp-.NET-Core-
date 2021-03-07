@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).AssemblyInfo.cs
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\bin\Debug\netcoreapp3.1\Array task (and funcs).exe
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\bin\Debug\netcoreapp3.1\Array task (and funcs).deps.json
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\bin\Debug\netcoreapp3.1\Array task (and funcs).runtimeconfig.json
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\bin\Debug\netcoreapp3.1\Array task (and funcs).runtimeconfig.dev.json
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\bin\Debug\netcoreapp3.1\Array task (and funcs).dll
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\bin\Debug\netcoreapp3.1\Array task (and funcs).pdb
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).dll
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).pdb
+C:\Users\victor\source\repos\Array task (and funcs)\Array task (and funcs)\obj\Debug\netcoreapp3.1\Array task (and funcs).genruntimeconfig.cache

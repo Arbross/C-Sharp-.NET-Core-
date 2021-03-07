@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Different types of arrays part 3/1.0.0": {
+        "runtime": {
+          "Different types of arrays part 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Different types of arrays part 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

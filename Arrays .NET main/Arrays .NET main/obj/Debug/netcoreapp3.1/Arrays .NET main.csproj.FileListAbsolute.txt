@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\bin\Debug\netcoreapp3.1\Arrays .NET main.exe
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\bin\Debug\netcoreapp3.1\Arrays .NET main.deps.json
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\bin\Debug\netcoreapp3.1\Arrays .NET main.runtimeconfig.json
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\bin\Debug\netcoreapp3.1\Arrays .NET main.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\bin\Debug\netcoreapp3.1\Arrays .NET main.dll
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\bin\Debug\netcoreapp3.1\Arrays .NET main.pdb
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.AssemblyInfo.cs
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.dll
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.pdb
+C:\Users\victor\source\repos\Arrays .NET main\Arrays .NET main\obj\Debug\netcoreapp3.1\Arrays .NET main.genruntimeconfig.cache

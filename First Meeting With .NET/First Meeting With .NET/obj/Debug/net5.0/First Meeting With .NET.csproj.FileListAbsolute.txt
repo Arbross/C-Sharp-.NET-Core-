@@ -1,0 +1,16 @@
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\First Meeting With .NET.exe
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\First Meeting With .NET.deps.json
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\First Meeting With .NET.runtimeconfig.json
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\First Meeting With .NET.runtimeconfig.dev.json
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\First Meeting With .NET.dll
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\ref\First Meeting With .NET.dll
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\bin\Debug\net5.0\First Meeting With .NET.pdb
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.AssemblyInfo.cs
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.dll
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\ref\First Meeting With .NET.dll
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.pdb
+C:\Users\victor\source\repos\First Meeting With .NET\First Meeting With .NET\obj\Debug\net5.0\First Meeting With .NET.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\bin\Debug\netcoreapp3.1\Different types of matrix.exe
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\bin\Debug\netcoreapp3.1\Different types of matrix.deps.json
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\bin\Debug\netcoreapp3.1\Different types of matrix.runtimeconfig.json
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\bin\Debug\netcoreapp3.1\Different types of matrix.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\bin\Debug\netcoreapp3.1\Different types of matrix.dll
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\bin\Debug\netcoreapp3.1\Different types of matrix.pdb
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.AssemblyInfo.cs
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.dll
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.pdb
+C:\Users\victor\source\repos\Different types of matrix\Different types of matrix\obj\Debug\netcoreapp3.1\Different types of matrix.genruntimeconfig.cache
