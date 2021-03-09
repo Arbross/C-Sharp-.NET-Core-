@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\bin\Debug\netcoreapp3.1\demo DayTime timeSpan.exe
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\bin\Debug\netcoreapp3.1\demo DayTime timeSpan.deps.json
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\bin\Debug\netcoreapp3.1\demo DayTime timeSpan.runtimeconfig.json
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\bin\Debug\netcoreapp3.1\demo DayTime timeSpan.runtimeconfig.dev.json
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\bin\Debug\netcoreapp3.1\demo DayTime timeSpan.dll
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\bin\Debug\netcoreapp3.1\demo DayTime timeSpan.pdb
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.AssemblyInfo.cs
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.dll
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.pdb
+C:\Users\victor\source\repos\demo DayTime timeSpan\demo DayTime timeSpan\obj\Debug\netcoreapp3.1\demo DayTime timeSpan.genruntimeconfig.cache

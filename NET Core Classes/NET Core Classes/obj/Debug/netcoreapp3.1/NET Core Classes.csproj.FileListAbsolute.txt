@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\bin\Debug\netcoreapp3.1\NET Core Classes.exe
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\bin\Debug\netcoreapp3.1\NET Core Classes.deps.json
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\bin\Debug\netcoreapp3.1\NET Core Classes.runtimeconfig.json
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\bin\Debug\netcoreapp3.1\NET Core Classes.runtimeconfig.dev.json
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\bin\Debug\netcoreapp3.1\NET Core Classes.dll
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\bin\Debug\netcoreapp3.1\NET Core Classes.pdb
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.AssemblyInfo.cs
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.dll
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.pdb
+C:\Users\victor\source\repos\NET Core Classes\NET Core Classes\obj\Debug\netcoreapp3.1\NET Core Classes.genruntimeconfig.cache
