@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\bin\Debug\netcoreapp3.1\Arrays of arrays.exe
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\bin\Debug\netcoreapp3.1\Arrays of arrays.deps.json
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\bin\Debug\netcoreapp3.1\Arrays of arrays.runtimeconfig.json
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\bin\Debug\netcoreapp3.1\Arrays of arrays.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\bin\Debug\netcoreapp3.1\Arrays of arrays.dll
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\bin\Debug\netcoreapp3.1\Arrays of arrays.pdb
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.AssemblyInfo.cs
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.dll
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.pdb
+C:\Users\victor\source\repos\Arrays of arrays\Arrays of arrays\obj\Debug\netcoreapp3.1\Arrays of arrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\04_Overload\04_Overload\bin\Debug\netcoreapp3.1\04_Overload.exe
+C:\Users\victor\source\repos\04_Overload\04_Overload\bin\Debug\netcoreapp3.1\04_Overload.deps.json
+C:\Users\victor\source\repos\04_Overload\04_Overload\bin\Debug\netcoreapp3.1\04_Overload.runtimeconfig.json
+C:\Users\victor\source\repos\04_Overload\04_Overload\bin\Debug\netcoreapp3.1\04_Overload.runtimeconfig.dev.json
+C:\Users\victor\source\repos\04_Overload\04_Overload\bin\Debug\netcoreapp3.1\04_Overload.dll
+C:\Users\victor\source\repos\04_Overload\04_Overload\bin\Debug\netcoreapp3.1\04_Overload.pdb
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.AssemblyInfo.cs
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.dll
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.pdb
+C:\Users\victor\source\repos\04_Overload\04_Overload\obj\Debug\netcoreapp3.1\04_Overload.genruntimeconfig.cache

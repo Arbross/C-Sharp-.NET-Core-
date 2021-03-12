@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\bin\Debug\netcoreapp3.1\03_Equeals.exe
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\bin\Debug\netcoreapp3.1\03_Equeals.deps.json
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\bin\Debug\netcoreapp3.1\03_Equeals.runtimeconfig.json
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\bin\Debug\netcoreapp3.1\03_Equeals.runtimeconfig.dev.json
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\bin\Debug\netcoreapp3.1\03_Equeals.dll
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\bin\Debug\netcoreapp3.1\03_Equeals.pdb
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.AssemblyInfo.cs
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.dll
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.pdb
+C:\Users\victor\source\repos\03_Equeals\03_Equeals\obj\Debug\netcoreapp3.1\03_Equeals.genruntimeconfig.cache
