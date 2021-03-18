@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.exe
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.deps.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.runtimeconfig.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.AssemblyInfo.cs
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.genruntimeconfig.cache

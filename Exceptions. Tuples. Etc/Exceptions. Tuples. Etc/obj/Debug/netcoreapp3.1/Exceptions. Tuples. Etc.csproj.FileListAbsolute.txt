@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\bin\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.exe
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\bin\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.deps.json
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\bin\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.runtimeconfig.json
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\bin\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\bin\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.dll
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\bin\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.pdb
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.AssemblyInfo.cs
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.dll
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.pdb
+C:\Users\victor\source\repos\Exceptions. Tuples. Etc\Exceptions. Tuples. Etc\obj\Debug\netcoreapp3.1\Exceptions. Tuples. Etc.genruntimeconfig.cache

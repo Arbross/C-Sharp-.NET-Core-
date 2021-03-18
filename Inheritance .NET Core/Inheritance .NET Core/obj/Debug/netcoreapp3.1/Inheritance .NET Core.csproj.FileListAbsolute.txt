@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\bin\Debug\netcoreapp3.1\Inheritance .NET Core.exe
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\bin\Debug\netcoreapp3.1\Inheritance .NET Core.deps.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\bin\Debug\netcoreapp3.1\Inheritance .NET Core.runtimeconfig.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\bin\Debug\netcoreapp3.1\Inheritance .NET Core.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\bin\Debug\netcoreapp3.1\Inheritance .NET Core.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\bin\Debug\netcoreapp3.1\Inheritance .NET Core.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.AssemblyInfo.cs
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Inheritance .NET Core\obj\Debug\netcoreapp3.1\Inheritance .NET Core.genruntimeconfig.cache

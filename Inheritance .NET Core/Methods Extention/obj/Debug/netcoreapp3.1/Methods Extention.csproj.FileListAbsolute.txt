@@ -1,0 +1,12 @@
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\bin\Debug\netcoreapp3.1\Methods Extention.exe
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\bin\Debug\netcoreapp3.1\Methods Extention.deps.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\bin\Debug\netcoreapp3.1\Methods Extention.runtimeconfig.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\bin\Debug\netcoreapp3.1\Methods Extention.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\bin\Debug\netcoreapp3.1\Methods Extention.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\bin\Debug\netcoreapp3.1\Methods Extention.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\obj\Debug\netcoreapp3.1\Methods Extention.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\obj\Debug\netcoreapp3.1\Methods Extention.AssemblyInfo.cs
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\obj\Debug\netcoreapp3.1\Methods Extention.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\obj\Debug\netcoreapp3.1\Methods Extention.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\obj\Debug\netcoreapp3.1\Methods Extention.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Methods Extention\obj\Debug\netcoreapp3.1\Methods Extention.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\bin\Debug\netcoreapp3.1\Virtual Method. Abstract Class.exe
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\bin\Debug\netcoreapp3.1\Virtual Method. Abstract Class.deps.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\bin\Debug\netcoreapp3.1\Virtual Method. Abstract Class.runtimeconfig.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\bin\Debug\netcoreapp3.1\Virtual Method. Abstract Class.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\bin\Debug\netcoreapp3.1\Virtual Method. Abstract Class.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\bin\Debug\netcoreapp3.1\Virtual Method. Abstract Class.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.AssemblyInfo.cs
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.dll
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.pdb
+C:\Users\victor\source\repos\Inheritance .NET Core\Virtual Method. Abstract Class\obj\Debug\netcoreapp3.1\Virtual Method. Abstract Class.genruntimeconfig.cache
