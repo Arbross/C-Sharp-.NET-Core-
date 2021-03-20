@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Enum\IClonable demo\bin\Debug\netcoreapp3.1\IClonable demo.exe
+C:\Users\victor\source\repos\Enum\IClonable demo\bin\Debug\netcoreapp3.1\IClonable demo.deps.json
+C:\Users\victor\source\repos\Enum\IClonable demo\bin\Debug\netcoreapp3.1\IClonable demo.runtimeconfig.json
+C:\Users\victor\source\repos\Enum\IClonable demo\bin\Debug\netcoreapp3.1\IClonable demo.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Enum\IClonable demo\bin\Debug\netcoreapp3.1\IClonable demo.dll
+C:\Users\victor\source\repos\Enum\IClonable demo\bin\Debug\netcoreapp3.1\IClonable demo.pdb
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.AssemblyInfo.cs
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.dll
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.pdb
+C:\Users\victor\source\repos\Enum\IClonable demo\obj\Debug\netcoreapp3.1\IClonable demo.genruntimeconfig.cache
