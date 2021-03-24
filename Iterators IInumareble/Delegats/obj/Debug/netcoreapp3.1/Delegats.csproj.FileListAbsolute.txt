@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\bin\Debug\netcoreapp3.1\Delegats.exe
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\bin\Debug\netcoreapp3.1\Delegats.deps.json
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\bin\Debug\netcoreapp3.1\Delegats.runtimeconfig.json
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\bin\Debug\netcoreapp3.1\Delegats.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\bin\Debug\netcoreapp3.1\Delegats.dll
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\bin\Debug\netcoreapp3.1\Delegats.pdb
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.AssemblyInfo.cs
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.dll
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.pdb
+C:\Users\victor\source\repos\Iterators IInumareble\Delegats\obj\Debug\netcoreapp3.1\Delegats.genruntimeconfig.cache
