@@ -1,0 +1,6 @@
+C:\Users\victor\source\repos\Gargabe Collector\IDisposable\bin\Debug\IDisposable.exe.config
+C:\Users\victor\source\repos\Gargabe Collector\IDisposable\bin\Debug\IDisposable.exe
+C:\Users\victor\source\repos\Gargabe Collector\IDisposable\bin\Debug\IDisposable.pdb
+C:\Users\victor\source\repos\Gargabe Collector\IDisposable\obj\Debug\IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Gargabe Collector\IDisposable\obj\Debug\IDisposable.exe
+C:\Users\victor\source\repos\Gargabe Collector\IDisposable\obj\Debug\IDisposable.pdb

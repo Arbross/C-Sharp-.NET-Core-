@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\bin\Debug\netcoreapp3.1\Queue And Stack.exe
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\bin\Debug\netcoreapp3.1\Queue And Stack.deps.json
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\bin\Debug\netcoreapp3.1\Queue And Stack.runtimeconfig.json
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\bin\Debug\netcoreapp3.1\Queue And Stack.runtimeconfig.dev.json
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\bin\Debug\netcoreapp3.1\Queue And Stack.dll
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\bin\Debug\netcoreapp3.1\Queue And Stack.pdb
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.AssemblyInfo.cs
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.dll
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.pdb
+C:\Users\victor\source\repos\ArrayList And List\Queue And Stack\obj\Debug\netcoreapp3.1\Queue And Stack.genruntimeconfig.cache

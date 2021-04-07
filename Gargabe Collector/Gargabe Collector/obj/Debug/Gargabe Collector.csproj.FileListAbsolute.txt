@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\bin\Debug\Gargabe Collector.exe.config
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\bin\Debug\Gargabe Collector.exe
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\bin\Debug\Gargabe Collector.pdb
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\obj\Debug\Gargabe Collector.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\obj\Debug\Gargabe Collector.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\obj\Debug\Gargabe Collector.exe
+C:\Users\victor\source\repos\Gargabe Collector\Gargabe Collector\obj\Debug\Gargabe Collector.pdb

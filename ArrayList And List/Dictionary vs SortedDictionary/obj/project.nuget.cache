@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZhzdYA5eLawPM8Hmb3JxXcQ+Mcuk588jeb0NwJGtZciujodXvThxuEwkN/FYv9pc8fMO61C2/8qR3zGtPUUykQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor\\source\\repos\\ArrayList And List\\Dictionary vs SortedDictionary\\Dictionary vs SortedDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

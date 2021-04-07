@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Serialization. Test.exe
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Serialization. Test.deps.json
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Serialization. Test.runtimeconfig.json
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Serialization. Test.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Serialization. Test.dll
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Serialization. Test.pdb
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.AssemblyInfo.cs
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.dll
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.pdb
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.genruntimeconfig.cache
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\victor\source\repos\Serialization. XML. Json\Serialization. Test\obj\Debug\netcoreapp3.1\Serialization. Test.csproj.CopyComplete

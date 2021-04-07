@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\bin\Debug\netcoreapp3.1\FileStream.exe
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\bin\Debug\netcoreapp3.1\FileStream.deps.json
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\bin\Debug\netcoreapp3.1\FileStream.runtimeconfig.json
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\bin\Debug\netcoreapp3.1\FileStream.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\bin\Debug\netcoreapp3.1\FileStream.dll
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\bin\Debug\netcoreapp3.1\FileStream.pdb
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.AssemblyInfo.cs
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.dll
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.pdb
+C:\Users\victor\source\repos\Gargabe Collector\FileStream\obj\Debug\netcoreapp3.1\FileStream.genruntimeconfig.cache

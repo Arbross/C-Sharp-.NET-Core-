@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBpTpTaRVDGmB3bJLWdhX6A3hQHvLp98tNnEmNoX2UhB0zH2+3e9KNiyLbX+UGuOvUavwL21HfwxwSMZ8jHi6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor\\source\\repos\\Serialization. XML. Json\\Serialization. Test\\Serialization. Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

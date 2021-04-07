@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Ann",
+    "course": 1,
+    "exams": [
+      { "math": 12 },
+      { "english": 10 }
+    ]
+  },
+  {
+    "name": "Ann",
+    "course": 1,
+    "exams": [
+      { "math": 12 },
+      { "english": 10 }
+    ]
+  }
+]
+

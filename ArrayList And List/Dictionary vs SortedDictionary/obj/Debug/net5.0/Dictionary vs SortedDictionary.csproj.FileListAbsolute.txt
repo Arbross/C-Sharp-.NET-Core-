@@ -1,0 +1,16 @@
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\Dictionary vs SortedDictionary.exe
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\Dictionary vs SortedDictionary.deps.json
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\Dictionary vs SortedDictionary.runtimeconfig.json
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\Dictionary vs SortedDictionary.runtimeconfig.dev.json
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\Dictionary vs SortedDictionary.dll
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\ref\Dictionary vs SortedDictionary.dll
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\bin\Debug\net5.0\Dictionary vs SortedDictionary.pdb
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.AssemblyInfo.cs
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.dll
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\ref\Dictionary vs SortedDictionary.dll
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.pdb
+C:\Users\victor\source\repos\ArrayList And List\Dictionary vs SortedDictionary\obj\Debug\net5.0\Dictionary vs SortedDictionary.genruntimeconfig.cache

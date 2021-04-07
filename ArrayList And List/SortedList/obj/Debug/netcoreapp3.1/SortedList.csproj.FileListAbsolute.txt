@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\ArrayList And List\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+C:\Users\victor\source\repos\ArrayList And List\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+C:\Users\victor\source\repos\ArrayList And List\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+C:\Users\victor\source\repos\ArrayList And List\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+C:\Users\victor\source\repos\ArrayList And List\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\victor\source\repos\ArrayList And List\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\victor\source\repos\ArrayList And List\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache

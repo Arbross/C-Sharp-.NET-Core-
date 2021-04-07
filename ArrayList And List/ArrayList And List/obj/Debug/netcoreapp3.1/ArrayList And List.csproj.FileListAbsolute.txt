@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\bin\Debug\netcoreapp3.1\ArrayList And List.exe
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\bin\Debug\netcoreapp3.1\ArrayList And List.deps.json
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\bin\Debug\netcoreapp3.1\ArrayList And List.runtimeconfig.json
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\bin\Debug\netcoreapp3.1\ArrayList And List.runtimeconfig.dev.json
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\bin\Debug\netcoreapp3.1\ArrayList And List.dll
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\bin\Debug\netcoreapp3.1\ArrayList And List.pdb
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.AssemblyInfo.cs
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.dll
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.pdb
+C:\Users\victor\source\repos\ArrayList And List\ArrayList And List\obj\Debug\netcoreapp3.1\ArrayList And List.genruntimeconfig.cache
